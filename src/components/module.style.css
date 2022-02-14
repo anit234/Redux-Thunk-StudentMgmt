@@ -1,0 +1,32 @@
+.logo-img {
+  width: 24%;
+  height: 60px;
+  border-radius: 50px;
+}
+
+.allStudent-table {
+  margin-top: 10%;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.delete-button {
+  margin-left: 10px;
+}
+
+.addStudentForm {
+  width: 45%;
+  margin-top: 5%;
+  margin-left: 30%;
+  margin-left: 30%;
+  padding: 16px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 4px;
+}
+
+.addStudentForm label {
+  float: left;
+}
+.cancleButton {
+  margin-left: 10px;
+}

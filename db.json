@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "full_name": "Ramesh Maharjan Jsx",
+      "grade": "8",
+      "address": "kathmamndu",
+      "result": "pass"
+    },
+    {
+      "id": 2,
+      "full_name": "Subash Kumar Kandel",
+      "grade": "9",
+      "address": "Lalitput",
+      "result": "fail"
+    },
+    {
+      "full_name": "Karina Fida",
+      "grade": "9",
+      "address": "Lalitpur",
+      "result": "Fail",
+      "id": 3
+    },
+    {
+      "full_name": "Rajendra Kumar Sharma",
+      "grade": "5",
+      "address": "Chautara",
+      "result": "Fail",
+      "id": 4
+    },
+    {
+      "full_name": "Dhiraj Pradhan",
+      "grade": "11",
+      "address": "Pani Pokhari",
+      "result": "Fail",
+      "id": 5
+    }
+  ]
+}
